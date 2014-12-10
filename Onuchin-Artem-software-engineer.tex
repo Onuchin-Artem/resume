@@ -12,6 +12,23 @@
 \familyname{Onuchin}
 \mobile{+7 (915) 361-86-01}
 \email{onuchinart@gmail.com}
+
+\newcommand{\expDescr}[3]{%
+#1
+
+\vspace*{2 mm}
+\textsc{Done work:}
+\begin{itemize}%
+#2
+\end{itemize} 
+
+\vspace*{2 mm}
+\textsc{ Used technologies:}
+\begin{itemize}
+\item[] #3
+\end{itemize}
+}
+
 \begin{document}
 \frenchspacing
 \lefthyphenmin=3
@@ -19,10 +36,35 @@
 \clubpenalty=10000 
 \widowpenalty=10000
 \maketitle
-\section
-\section {Taken courses}
-\cvlistitem{\href{https://www.dropbox.com/s/ey4kpuspil6ez54/Statement\%20of\%20Accomplishment.pdf}{Coursera, Stanford, Machine Learning }}
-\cvlistitem{\href{https://www.dropbox.com/s/ot8hvdck28tyoj4/AlgoDA2.pdf}{Coursera, Stanford,  Algorithms: Design and Analysis pt.2 }}
-\cvlistitem{\href{https://www.dropbox.com/s/ikqocsfb94sot51/in_memory_data_management_certificate_full_15656.pdf}{OpenHPI, In Memory Data Management }}
+\section{Employment}
+\cventry{2013 April -- working now}{Software engineer}{Yandex LLC}{Moscow}{}{
+Yandex.Market (http://market.yandex.ru) is a leading Russian eCommerce web-service. \\
+I am responsible for Market data infrastructure. The systems that I build and support ensure the sustainability of billing the most of Market money, improve the quality of clicks that we sell to our clients and help taking data-driven decisions. \\
+ As part of my team I've participated in many projects about data-products such as AB-testing, Antifraud and CTR prediction. \\
+ My role in Market team implied the following activities: \\
+\begin{itemize}
+\item Maintaining hadoop MapReduce and HDFS settings.
+\item Optimizing hadoop data-flow.
+\item Moving all data to Hive.
+\item Debugging complicated  heisen bugs.
+\item Building from scratch new production-quality components.
+\end{itemize}
+}
+\cventry{2012 October -- 2013 April}{Senior software developer}{VideoInternational}{Moscow}{}{
+Worked in team that was building RTB-system. I've built integration with several Data Suppliers.}
+\cventry{2011 March -- 2012 March}{Software developer}{Openstat.ru}{Moscow}{}{
+Worked in small company that provided services of web-analytics. \\
+On this work I've implemented the number of various reports for our clients.\\
+Also I've rewrote the system of scheduling Cascading tasks. It improved the average time of hourly workflow and improved the time that needed to normalize calculation lags.
+}
+\cventry{2010 March -- 2011 March}{Software developer}{ContextWeb}{Moscow (outsourcing)}{}{
+Worked in ad-network company in Data team.}
+
+\section{Education}
+\cventry{20007-2011}{Bachelor of Science} {Russian Social State University} {Moscow}{}{Computer science}
+
+\section {Aditional education}
+
+I like educating and took a number of MOOC's and a number of courses in The School of Data Analysis.
 
 \end{document}
