@@ -3,7 +3,7 @@ Artem Onuchin
 
 I am open for remote work or relocating if visa is sponsored.
 
-- **tel:** +7 (915) 361-86-01 
+- **tel:** +7-915-361-86-01 
 - **e-mail:** onuchinart@gmail.com
 - **linkedin:** https://www.linkedin.com/profile/view?id=183758089
 
@@ -81,5 +81,8 @@ and some courses in The School of Data Analysis:
 - Algorithms for big data processing
 - Applied analytical problems in information retrieval
 
-[Yandex.Market]:http://market.yandex.ru
+Awards
+------
+I have taken first place in Yandex Open Data Hackaton 2013.
 
+[Yandex.Market]:http://market.yandex.ru
