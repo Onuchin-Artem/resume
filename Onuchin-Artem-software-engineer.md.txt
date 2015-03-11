@@ -12,7 +12,7 @@ Skills set
 ----------
 
 Java SE, Apache Hadoop, Unix scripting, Multithreading, 
-Distributed Systems, Sql, Apache Hive, R, Data Analysis,
+Distributed Systems, Sql, Apache Hive, Machine Learning, R, Data Analysis,
 Algorithms.
 
  
