@@ -26,10 +26,7 @@ _Apr 2013 – May 2015_. **Software engineer**, Yandex LLC,
 Moscow.
 
 [Yandex.Market] is a leading Russian eCommerce web-service.
-I am responsible for Market data infrastructure. The systems that
-I build and support ensure the sustainability of billing the most
-of Market money, improve the quality of clicks that we sell to our
-clients and help taking data-driven decisions.
+I am responsible for Market data infrastructure. 
 As part of my team I’ve participated in many projects about
 data-products such as AB-testing, Antifraud and CTR prediction.
  
@@ -44,24 +41,10 @@ My role in Market team implied the following activities:
 _Oct 2012 – Apr 2013_. **Senior software developer**, VideoInternational,
 Moscow.
 
-Worked in team that was building RTB-system. I’ve built integration 
-with several Data Suppliers.
-
-
 _Mar 2011 – Oct 2012_. **Software developer**, Openstat.ru, Moscow.
-
-Worked in small company that provided services of web-analytics.
-On this job I’ve implemented the number of various reports for our
-clients.
-
-Also I’ve rewrote the system of scheduling Cascading tasks. It
-improved the average time of hourly workflow and improved the
-time that needed to normalize calculation lags.
 
 _Mar 2010 – Mar 2011_. **Software developer**, ContextWeb,
 Moscow (outsourcing).
-
-Worked in ad-network company in Data team.
 
 
 Education
