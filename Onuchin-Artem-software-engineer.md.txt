@@ -1,9 +1,6 @@
 Artem Onuchin 
 =============
 
-I am open for remote work or relocating if visa is sponsored.
-
-- **tel:** +7-915-361-86-01 
 - **e-mail:** onuchinart@gmail.com
 - **linkedin:** https://www.linkedin.com/profile/view?id=183758089
 
@@ -11,15 +8,21 @@ I am open for remote work or relocating if visa is sponsored.
 Skills set
 ----------
 
-Java SE, Apache Hadoop, Unix scripting, Multithreading, 
-Distributed Systems, Sql, Apache Hive, Machine Learning, R, Data Analysis,
-Algorithms.
-
+Machine Learning packages: vowpal wabbit, xgboost, libfm, caret (R package). 
+Machine learning techniques: regression, time series analysis, ctr-modeling, anomaly detection.
+Data visualization: R packages lattice and ggplot2.
+Distributed Systems: Hadoop core, Apache Hive, Apache pig, understand replication and consistency.
+Software engineering: Java SE, Unix scripting, Multithreading, Unix scripting, R, Sql.
+Have experience of mentoring engineers.
  
 Employment
 ----------
+_May 2015 - working now_. **Software engineer**, Indeed.
 
-_Apr 2013 – working now_. **Software engineer**, Yandex LLC,
+Started AdScience team - team responsible for quality of Indeed ad-tech products. 
+Improved product metrics of BidOptimizer - one of key Indeed products for employers.
+
+_Apr 2013 – May 2015_. **Software engineer**, Yandex LLC,
 Moscow.
 
 [Yandex.Market] is a leading Russian eCommerce web-service.
@@ -80,6 +83,8 @@ and some courses in The School of Data Analysis:
 - Algorithms and data structures
 - Algorithms for big data processing
 - Applied analytical problems in information retrieval
+
+Also I regularly read scientific papers.
 
 Awards
 ------
