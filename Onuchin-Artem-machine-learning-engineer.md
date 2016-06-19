@@ -8,12 +8,12 @@ Artem Onuchin
 Skills set
 ----------
 
-Machine Learning tools: vowpal wabbit, xgboost, libfm, caret (R package). 
-Machine learning techniques: regression, time series analysis, ctr-modeling, anomaly detection.
-Data visualization: R packages lattice and ggplot2.
-Distributed Systems: Hadoop core, Apache Hive, Apache pig, briefly understand replication and consistency.
-Software engineering: Java SE, Unix scripting, Multithreading, R, Sql.
-Have experience of mentoring engineers.
+- Machine Learning tools: vowpal wabbit, xgboost, libfm, caret (R package). 
+- Machine learning techniques: regression, time series analysis, ctr-modeling, anomaly detection.
+- Data visualization: R packages lattice and ggplot2.
+- Distributed Systems: Hadoop core, Apache Hive, Apache pig, briefly understand replication and consistency.
+- Software engineering: Java SE, Unix scripting, Multithreading, R, Sql.
+- Have experience of mentoring engineers.
  
 Employment
 ----------
