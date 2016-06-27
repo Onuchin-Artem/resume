@@ -11,7 +11,7 @@ Skills set
 - Machine Learning tools: vowpal wabbit, xgboost, libfm, caret (R package). 
 - Machine learning techniques: regression, time series analysis, ctr-modeling, anomaly detection.
 - Data visualization: R packages lattice and ggplot2.
-- Distributed Systems: Hadoop core, Apache Hive, Apache pig, Apache Zookeeper, briefly understand replication and consistency.
+- Distributed Systems: Hadoop core, Apache Hive, Apache Pig, Apache Zookeeper, briefly understand replication and consistency.
 - Software engineering: Java SE, Unix scripting, Multithreading, R, Sql, general design experience.
 - Have experience of mentoring engineers.
  
