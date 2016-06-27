@@ -19,10 +19,10 @@ Employment
 ----------
 _May 2015 - working now_. **Software engineer**, Indeed.
 
-Started AdScience team - team responsible for quality of Indeed ad-tech products. 
-Improved product metrics of BidOptimizer - one of key Indeed products for employers - by tweaking its algorithm.
-Built a product that sets the bids according cost-per-apply target.
-Wrote a pig loader that allows to read imhotep data from pig.
+- Started AdScience team - team responsible for quality of Indeed ad-tech products. 
+- Improved product metrics of BidOptimizer - one of key Indeed products for employers - by tweaking its algorithm.
+- Built a product that sets the bids according cost-per-apply target.
+- Wrote a pig loader that allows to read imhotep data from pig.
 
 _Apr 2013 – May 2015_. **Software engineer**, Yandex LLC,
 Moscow.
