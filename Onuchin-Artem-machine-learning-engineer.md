@@ -2,7 +2,7 @@ Artem Onuchin
 =============
 
 - **e-mail:** onuchinart@gmail.com
-- **linkedin:** https://www.linkedin.com/profile/view?id=183758089
+- **linkedin:** https://ru.linkedin.com/in/artem-onuchin-5a165951
 
 
 Skills set
@@ -11,7 +11,7 @@ Skills set
 - Machine Learning tools: vowpal wabbit, xgboost, libfm, caret (R package). 
 - Machine learning techniques: regression, time series analysis, ctr-modeling, anomaly detection.
 - Data visualization: R packages lattice and ggplot2.
-- Distributed Systems: Hadoop core, Apache Hive, Apache pig, briefly understand replication and consistency.
+- Distributed Systems: Hadoop core, Apache Hive, Apache pig, Apache Zookeeper, briefly understand replication and consistency.
 - Software engineering: Java SE, Unix scripting, Multithreading, R, Sql.
 - Have experience of mentoring engineers.
  
@@ -20,7 +20,9 @@ Employment
 _May 2015 - working now_. **Software engineer**, Indeed.
 
 Started AdScience team - team responsible for quality of Indeed ad-tech products. 
-Improved product metrics of BidOptimizer - one of key Indeed products for employers.
+Improved product metrics of BidOptimizer - one of key Indeed products for employers - by tweaking its algorithm.
+Built a product that sets the bids according cost-per-apply target.
+Wrote a pig loader that allows to read imhotep data from pig.
 
 _Apr 2013 – May 2015_. **Software engineer**, Yandex LLC,
 Moscow.
