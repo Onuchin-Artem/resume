@@ -71,10 +71,6 @@ and some courses in The School of Data Analysis:
 
 Also I regularly read scientific papers.
 
-Awards
-------
-I have taken first place in Yandex Open Data Hackaton 2013.
-
 [BidOptimizer]:http://blog.indeed.com/2015/06/23/maximize-your-hiring-budget-with-bid-optimizer/
 [imhotep]:http://opensource.indeedeng.io/imhotep/
 [Yandex.Market]:http://market.yandex.ru
