@@ -20,14 +20,14 @@ Employment
 _May 2015 - working now_. **Software engineer**, Indeed.
 
 - Started AdScience team - team responsible for quality of Indeed ad-tech products. 
-- Improved product metrics of [BidOptimizer] - one of key Indeed products for employers - by tweaking its algorithm.
+- Improved product metrics of BidOptimizer[1] - one of key Indeed products for employers - by tweaking its algorithm.
 - Built a product that sets the bids according to cost-per-apply target.
-- Wrote a pig load function that allows to read [imhotep] data from pig.
+- Wrote a pig load function that allows to read imhotep[2] data from pig.
 
 _Apr 2013 – May 2015_. **Software engineer**, Yandex LLC,
 Moscow.
 
-[Yandex.Market] is a leading Russian eCommerce web-service.
+Yandex.Market[3] is a leading Russian eCommerce web-service.
 I am responsible for Market data infrastructure. 
 As part of my team I’ve participated in many projects about
 data-products such as AB-testing, Antifraud and CTR prediction.
@@ -71,6 +71,6 @@ and some courses in The School of Data Analysis:
 
 Also I regularly read scientific papers.
 
-[BidOptimizer]:http://blog.indeed.com/2015/06/23/maximize-your-hiring-budget-with-bid-optimizer/
-[imhotep]:http://opensource.indeedeng.io/imhotep/
-[Yandex.Market]:http://market.yandex.ru
+[1]: http://blog.indeed.com/2015/06/23/maximize-your-hiring-budget-with-bid-optimizer/
+[2]: http://opensource.indeedeng.io/imhotep/
+[3]: http://market.yandex.ru
