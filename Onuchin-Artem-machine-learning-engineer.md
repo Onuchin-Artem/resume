@@ -23,12 +23,12 @@ _June 1st, 2015 - working now_. **Software engineer**, Indeed Japan.
 - Improved product metrics of BidOptimizer [[1]] - one of key Indeed products for employers - by tweaking its algorithm.
 - Built a product that sets the bids according to cost-per-apply target.
 - Wrote a hadoop pig load function that allows to read imhotep [[2]] data from apache hadoop pig.
-- Integrated several open source machine learning packages with Indeed internal machine learning infrastructure. 
+- Integrated several open source machine learning packages - including vowpal wabbit [[3]] - with Indeed internal machine learning infrastructure. 
 
 _Apr 2013 – May 2015_. **Software engineer**, Yandex LLC,
 Moscow.
 
-Yandex.Market [[3]] is a leading Russian eCommerce web-service.
+Yandex.Market [[4]] is a leading Russian eCommerce web-service.
 I was responsible for Market data infrastructure. 
 As part of my team I’ve participated in many projects about
 data-products such as AB-testing, Antifraud and CTR prediction.
@@ -62,11 +62,12 @@ Education
 ---------
 
 _Sep 2007 – Jul 2011_. **Bachelor of Science**, 
-Russian Social State University [[4]], Moscow.
+Russian Social State University [[5]], Moscow.
 Computer science
 
 
 [1]: http://blog.indeed.com/2015/06/23/maximize-your-hiring-budget-with-bid-optimizer/
 [2]: http://opensource.indeedeng.io/imhotep/
+[3]: github.com/indeedeng/vowpal-wabbit-java
 [3]: http://market.yandex.ru
 [4]: http://en.rgsu.net/
