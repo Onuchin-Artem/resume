@@ -69,5 +69,5 @@ Computer science
 [1]: http://blog.indeed.com/2015/06/23/maximize-your-hiring-budget-with-bid-optimizer/
 [2]: http://opensource.indeedeng.io/imhotep/
 [3]: http://github.com/indeedeng/vowpal-wabbit-java
-[3]: http://market.yandex.ru
-[4]: http://en.rgsu.net/
+[4]: http://market.yandex.ru
+[5]: http://en.rgsu.net/
